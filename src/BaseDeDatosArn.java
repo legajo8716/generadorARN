@@ -1,6 +1,9 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class BaseDeDatosArn {
 
-  List,git   A
+  List<String> A = List.of("");
     R
     N
     D

@@ -3,16 +3,17 @@ import java.util.List;
 
 public class BaseDeDatosArn {
 
-  List<String> A = List.of("");
-    R
-    N
-    D
-    C
-    Q
-    E
-    G
-    H
-    I
+  List<String> A = List.of("GCU", "GCC", "GCA" ,"GCG");
+  List<String> R= List.of("CGU","CGC","CGA","CGG");
+  List<String>  D= List.of("GAC","GAU");
+  List<String>  N= List.of("AAU","AAC");
+  List<String>  C= List.of("UGU","UGC");
+  List<String>  Q= List.of("CAA","CAG");
+  List<String>  E= List.of("GAA","GAG");
+  List<String>  G= List.of("GGG","GGA","GGC","GGU");
+  List<String>  H= List.of("CAU","CAC");
+
+  I
     L
     K
     M
@@ -22,7 +23,11 @@ public class BaseDeDatosArn {
     T
     W
     Y
-            V
+
+    public void getArn(char aminoacido) {
+    }
+
+    V
 
 
 

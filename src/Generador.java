@@ -23,8 +23,8 @@ public class Generador {
 
     }
 
-    private String generarArnCodificante(char charAt) {
-        this.baseDeDatosArn.getARN();
+    private String generarArnCodificante(char aminoacido) {
+        this.baseDeDatosArn.getArn(aminoacido);
 
     }
 
